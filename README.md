@@ -1,6 +1,7 @@
 <div style="text-align: right">
-    <img src="code/img/BBWS2023_cropped.png" alt="" width="1200" id="hp"/>
+    <img src="https://raw.githubusercontent.com/rcruces/2023_BigBrain_workshop_BigBrains-BrainSpaces/main/code/img/BBWS2023_cropped.png" alt="" width="1200" id="hp"/>
 </div>
+
 
 # 2023 HBHL BigBrain workshop: From BigBrains to BrainSpaces
 # `content`
